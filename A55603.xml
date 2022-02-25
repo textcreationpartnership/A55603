@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals to all such people as are minded to transport or concern themselves in the island of Tobago which lieth about forth leagues south from Barbadoes.</title>
+            <author>Poyntz, John, b. 1606.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55603</idno>
+            <idno type="STC">Wing P3131A</idno>
+            <idno type="STC">ESTC R35120</idno>
+            <idno type="EEBO-CITATION">15023201</idno>
+            <idno type="OCLC">ocm 15023201</idno>
+            <idno type="VID">103062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals to all such people as are minded to transport or concern themselves in the island of Tobago which lieth about forth leagues south from Barbadoes.</title>
+                  <author>Poyntz, John, b. 1606.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Poyntz.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tobago --  Colonization.</term>
+               <term>Tobago --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103062:1"/>
+            <head>PROPOSALS To all ſuch People as are minded to Tranſport or Concern themſelves in the Iſland of TOBAGO, <hi>Which lieth about forty Leagues South from</hi> Barbadoes.</head>
+            <p>WHereas his Majeſty the King of Great <hi>Brittain,</hi> that now is, hath given and granted unto <hi>James</hi> Duke of <hi>Courland,</hi> his Heirs and Succeſſors, the ſaid Iſland of <hi>Tobago,</hi> on Condition that none ſhall inhabit the ſaid Iſland, ſave only the Sub<g ref="char:EOLhyphen"/>jects, of the King of <hi>England</hi> and the Duke of <hi>Courland,</hi> their Heirs and Succeſſors: On the ſaid Condition, Captain <hi>John Poyntz</hi> hath contracted with the ſaid Duke, that himſelf and Company ſettle One hundred and Twenty Thouſand Acres of Land in the ſaid Iſland, and to have ſeveral great and large Priviledges; Some of which are here incerted, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Imprimis,</hi> That One Hundred &amp; Twenty Thouſand Acres of Land in the ſaid Iſland of <hi>Tobago,</hi> is given and granted to the ſaid <hi>Poyntz</hi> and Company, and their Heirs for ever; and Seven Years to be free from Payment of any Rent; and after the Expiration of Seven Years each for himſelf is to pay Two Pence <hi>per</hi> Acre every Year to the ſaid Duke, his Lawful Heirs and Succeſſors.</p>
+            <p>
+               <hi>Secondly,</hi> That <hi>Poyntz</hi> and Company, and all the Inhabitants, ſhall enjoy Liberty of Conſcience, without Interruption; Roman Catho<g ref="char:EOLhyphen"/>licks only Excepted.</p>
+            <p>
+               <hi>Thirdly,</hi> That <hi>Poyntz</hi> and Company, <hi>&amp;c.</hi> are to be Governed by a Governour, Deputy Governour, and Aſſembly, to be yearly choſen by the Majority of Freeholders Votes, of the People in the Iſland, to make good and wholeſome Laws for the good Government and Defence of the ſaid Iſland; and all Controverſies in the Premiſes to be decided by the Majority of Voices.</p>
+            <p>
+               <hi>Note,</hi> Theſe are but Breviates and part of the Heads of the Grant from the Duke of <hi>Courland,</hi> Ratified to <hi>Poyntz</hi> and <hi>Company,</hi> whereby they hold and enjoy their Land; for that end the ſaid <hi>Poyntz</hi> and Company do refer all People to <hi>The Preſent Proſpect of Tobago,</hi> now in the Preſs, and to the Grant, as more at large; as alſo to them that have been on the Skirt or Body of the ſaid Iſland, to confirm the Truth of the Products thereof.</p>
+            <div type="part">
+               <pb facs="tcp:103062:2" rendition="simple:additions"/>
+               <head>Propoſals for Further Encouragement.</head>
+               <p>
+                  <hi>Firſt,</hi> Thoſe which are deſirous to concern themſelves in the ſaid Iſland, ſhall and may have as much Land as they themſelves pleaſe, either by Leaſe or Purchaſe; onely they are to put upon every Fif<g ref="char:EOLhyphen"/>teen Acres of Land one <hi>White Man,</hi> and ſo in proportion to the reſt; and this to be done in Three Years time.</p>
+               <p>
+                  <hi>Secondly,</hi> All Perſons that are deſirous to Tranſport themſelves to the ſaid Iſland in the quality of Servants, ſhall have <hi>Better Encourage<g ref="char:EOLhyphen"/>ment</hi> from Captain <hi>Poyntz</hi> and Company, than has been yet Pro<g ref="char:EOLhyphen"/>pounded by any of His Majeſties Subjects in any <hi>Settlement</hi> in the <hi>American</hi> Plantations.</p>
+               <p>
+                  <hi>Thirdly,</hi> And for a further Encouragement, All thoſe Perſons and Planters that are any ways concerned in the Premiſes, ſhall have <hi>Cre<g ref="char:EOLhyphen"/>dit</hi> given unto them from Crop to Crop, as the <hi>Factory</hi> is ſtor'd, for what they ſhall ſtand in need of; for which the ſaid Company will Erect a <hi>Bank</hi> or <hi>Factory of Credit</hi> in the ſaid Iſland, the Debtor allow<g ref="char:EOLhyphen"/>ing only two and a half <hi>per Cent.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> All Merchants and others that ſhall import any Negroes or other Merchandiſe into the ſaid Iſland, ſhall have their Goods and Debts Inſured, and diſpoſed of, for Two and a Half <hi>per Cent.</hi> with Factorage, Storage, Wharfage, <hi>&amp;c.</hi> And Exported again for Two and a Half <hi>per Cent.</hi> more. And all <hi>Tradeſmen</hi> and Others that Contract any Debts amongſt themſelves, ſhall have Credit given them out of the <hi>Bank</hi> or <hi>Factory,</hi> from Crop to Crop, for Two and a Half <hi>per Cent.</hi> And the <hi>Proprietors</hi> do engage their Whole Intereſt for the True Performance of the aforeſaid Premiſes.</p>
+               <p>
+                  <hi>Fifthly,</hi> All Merchants and others that have Goods fit to Accom<g ref="char:EOLhyphen"/>modate the ſaid Iſland, and have not ready Money to purchaſe Land, nor to pay for their own or Servants Paſſage, ſuch may barter with Goods in lieu of Money: Always provided, This implies only ſuch Perſons as contract with the <hi>Proprietors,</hi> or ſome of them, before the firſt Shipping departs out of the River of <hi>Thames,</hi> to Ship off, as a<g ref="char:EOLhyphen"/>bove, their proportion of <hi>Goods</hi> or <hi>People,</hi> as is already ſufficiently above-expreſſed.</p>
+               <p>For the Accommodation of all Perſons that deſire to be Concern'd in the above-named Iſland of <hi>TOBAGO,</hi> ſome of the <hi>Proprietors,</hi> or their Agents, will give their Attendance every day in the Week, at Mr. <hi>Nathaniel Morin</hi>'s, at the <hi>Blew Anchor</hi> in <hi>Finch-Lane,</hi> near the <hi>Royal Exchange,</hi> from Eight a Clock in the Morning, till two in the Afternoon: And at <hi>Jone</hi>'s <hi>Coffee-Houſe</hi> in <hi>Ship-yard</hi> in <hi>Bartholomew Lane,</hi> from two in the Afternoon till four. And at the <hi>Amsterdam-Coffe-Houſe</hi> in <hi>Bartholomew Lane</hi> from four in the Afternoon till ſix. Where any Perſon may receive more Particular Satisfaction.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Larkin,</hi> at the <hi>Kings-Head</hi> in <hi>Broadſtreet,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
